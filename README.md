@@ -1,0 +1,1 @@
+# rocketseat-omnistack-10.0
