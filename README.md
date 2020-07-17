@@ -11,19 +11,6 @@ Repositório de estudo das tecnologias Node.js, ReactJS e React Native.
   
 </h4>
 
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/herbsonsilva/rocketseat-omnistack-10.0.svg">
-  
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/herbsonsilva/rocketseat-omnistack-10.0.svg">
-  
-  <a href="https://github.com/herbsonsilva/rocketseat-omnistack-10.0/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/herbsonsilva/rocketseat-omnistack-10.0.svg">
-  </a>
-  
-  <img alt="GitHub" src="https://img.shields.io/github/license/herbsonsilva/rocketseat-omnistack-10.0.svg"> 
-  
-</p>
-
 ## :rocket: Tecnologias
 
 Este repositório foi criado para estudo das tecnologias Node.js, ReactJS e React Native. Desenvolvendo um aplicativo do backend ao frontend do curso [OmniStack 10.0 da Rocketseat][curso].
