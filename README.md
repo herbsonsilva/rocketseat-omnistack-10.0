@@ -33,11 +33,6 @@ Repositório de estudo das tecnologias Node.js, ReactJS e React Native.
   
 </p>
 
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#page_facing_up-licença">Licença</a>
-</p>
-
 ## :rocket: Tecnologias
 
 Este repositório foi criado para estudo das tecnologias Node.js, ReactJS e React Native. Desenvolvendo um aplicativo do backend ao frontend do curso [OmniStack 10.0 da Rocketseat][curso].
