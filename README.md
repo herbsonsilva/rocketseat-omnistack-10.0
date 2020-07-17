@@ -14,19 +14,10 @@ Repositório de estudo das tecnologias Node.js, ReactJS e React Native.
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/herbsonsilva/rocketseat-omnistack-10.0.svg">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/herbsonsilva/rocketseat-omnistack-10.0.svg">
-  
-  <a href="https://www.codacy.com/app/herbsonsilva/rocketseat-omnistack-10.0?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=herbsonsilva/rocketseat-omnistack-10.0&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/4f87fc059ec846118f2ef2950200b13a.svg">
-  </a>
-  
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/herbsonsilva/rocketseat-omnistack-10.0.svg">
+  
   <a href="https://github.com/herbsonsilva/rocketseat-omnistack-10.0/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/herbsonsilva/rocketseat-omnistack-10.0.svg">
-  </a>
-  
-  <a href="https://github.com/herbsonsilva/rocketseat-omnistack-10.0/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/herbsonsilva/rocketseat-omnistack-10.0.svg">
   </a>
   
   <img alt="GitHub" src="https://img.shields.io/github/license/herbsonsilva/rocketseat-omnistack-10.0.svg"> 
